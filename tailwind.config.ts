@@ -61,6 +61,18 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				minecraft: {
+					purple: '#8B5CF6',
+					'purple-dark': '#7C3AED',
+					'purple-light': '#A78BFA',
+					green: '#10B981',
+					'green-dark': '#059669',
+					black: '#000000',
+					white: '#FFFFFF',
+					gray: '#6B7280',
+					'gray-light': '#F3F4F6',
+					'gray-dark': '#374151'
 				}
 			},
 			borderRadius: {
